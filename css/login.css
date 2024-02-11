@@ -1,0 +1,10 @@
+.pins .form-control {
+    width: 50px;
+    display: inline !important;
+    margin-bottom: 0;
+
+}
+
+.form-control {
+    border-radius: 0 !important;
+}

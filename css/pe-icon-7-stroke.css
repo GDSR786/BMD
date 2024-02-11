@@ -1,0 +1,807 @@
+
+<!DOCTYPE html>
+<html lang="zxx">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="">
+    <link rel="shortcut icon" href="" sizes="32x32">
+    <meta name="description" content="">
+    <title>RO Water Purifier Service Center - RO Care India </title>
+    <!-- Loading Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Loading Template CSS -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/pe-icon-7-stroke.html">
+    <link href="css/style-magnific-popup.css" rel="stylesheet">
+    <!-- Awsome Fonts -->
+    <link rel="stylesheet" href="css/all.min.html">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700&amp;display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="../../../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Font Favicon -->
+ <style type="text/css">
+     html {
+  scroll-behavior: smooth;
+}
+ </style>
+</head>
+
+<body>
+
+    <!--begin header -->
+    <header class="header">
+        <!--begin navbar-fixed-top -->
+        <nav class="navbar navbar-expand-lg navbar-default navbar-fixed-top">
+            <!--begin container -->
+            <div class="container">
+
+                    <!--begin logo -->
+                    <a class="navbar-brand" href="#"><img src="images/ro-logo.png" alt=""></a>
+                    <!--end logo -->
+
+                    <!--begin navbar-toggler -->
+                    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
+                    </button>
+                    <!--end navbar-toggler -->
+
+                    <!--begin navbar-collapse -->
+                    <div class="navbar-collapse collapse" id="navbarCollapse" style="">
+                        
+                        <!--begin navbar-nav -->
+                        <ul class="navbar-nav ml-auto">
+
+                            <li><a href="#">Home</a></li>
+
+                            <li><a href="#about">About Us</a></li>
+                              <li><a href="#service"> RO Service</a></li>
+
+                            <li class="discover-link"><a href="tel:9311587730" class="discover-btn">
+                           
+                                 9311587730 ( Booking No.)
+                            </a>
+                        </li>
+
+                        </ul>
+                        <!--end navbar-nav -->
+
+                    </div>
+                    <!--end navbar-collapse -->
+
+            </div>
+            <!--end container -->
+            
+        </nav>
+        <!--end navbar-fixed-top -->
+        
+    </header>
+    <!--end header -->
+
+    <!--begin home section -->
+    <section class="home-section" id="home">
+
+       <div class="bg-shape"></div>
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row">
+              
+                <!--begin col-md-6-->
+                <div class="col-md-6 padding-top-60 ro-watres">
+
+                    <h1>Best RO Service Provider</h1>
+
+                <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                           <div class="imgs"> <img src="images/acinstall.png" width="50px" height="50px" alt="ac repair"></div>
+                            <h5>RO Installation</h5>
+                                </div>
+                        
+                         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                         <div class="imgs"><img src="images/ac-gass.png" width="50px" height="50px" alt="ac repair">
+                        </div>
+                         <h5>RO Repair & fix</h5>
+                         </div>
+                         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                            <div class="imgs"><img src="images/acamc.png" width="50px" height="50px" alt="ac repair"></div>
+                          <h5>RO Services </h5>
+                          </div>
+                          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+                            <div class="imgs"><img src="images/accool.png" width="50px" height="50px" alt="ac repair"></div>
+                           <h5>RO Filter Change</h5>
+                           </div>
+                           </div>
+
+<!-- <li class="discover-linkdd"><a href="tel:9311587730" class="discover-btn">
+                           
+                               <i class="fa fa-phone"></i>   +91-9311587730 
+                            </a>
+                        </li>-->
+ 
+                  
+
+
+                    
+                </div>
+                <!--end col-md-6-->
+
+                <!--begin col-md-5-->
+                <div class="col-md-4 offset-md-2 margin-top-20">
+
+                
+                         <div class="enquriy-form">
+    <div class="registration">
+          <h2>Fill the form & Connect with best experts.</h2>
+           <div class="l-form">
+         <form action="https://www.waterpurifierservicecenter.in/popup/get_popup_data_rocare.php" method="post" name="myForm" class="form" onsubmit="return validate();">
+                <input type="hidden" name="go_back" value="https://www.mannubhai.com/ro-service-ads/">
+                <input type="hidden" name="hiddn_field" value="https://www.mannubhai.com/ro-service-ads/">
+                <input type="hidden" name="lead_source" value="Common Number">
+            <div class="form_div">
+                <input type="text" name="name" class="form_input" placeholder="" required>
+                <label for="" class="form_label">Name <span>*</span></label>
+            </div>
+              <div class="form_div">
+                <input type="email" name="email" class="form_input" placeholder="" required>
+                <label for="" class="form_label">Email <span>*</span></label>
+            </div>
+            <div class="form_div">
+                <input type="number" name="mobile" class="form_input" placeholder="" required>
+                <label for="" class="form_label">Mobile no <span>*</span></label>
+            </div>
+            <div class="form_div textarea-here">
+                <textarea type="text" name="message" class="form_input" placeholder=""></textarea>
+                <label for="" class="form_label">Full Address</label>
+            </div>
+                                        
+                    
+            <div class="form-submit">
+              <input type="submit" name="submit" value="Submit">
+            </div>
+        </form>
+        
+    </div>
+        </div>
+  </div>
+
+                    </div>
+                    <!--end register-form-wrapper-->
+
+                </div>
+                <!--end col-md-5-->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+    </section>
+    <!--end home section -->
+
+<section class="safety-area-2" id="safety-area">
+                <div class="container">
+
+            <div class="safety_menu-2">
+
+                   <!---<img src="../img/safety/uc-logo.html" >--->
+                   <h2>Best-in-class safety measures</h2>
+
+                <div class="total-work-process d-flex flex-wrap justify-content-around align-items-center">
+                    <div class="single-work-process">
+                        <div class="work-icon-box">
+                            <span><img src="images/masks.html"></span>
+                        </div>
+                        <h4 class="caption">Usage of masks &amp; gloves</h4>
+                    </div>
+                    <div class="work-arrow">
+                    </div>
+                    <div class="single-work-process">
+                        <div class="work-icon-box">
+                            <span><img src="images/tempreture.html"></span>
+                        </div>
+                        <h4 class="caption">Tempreture checks</h4>
+                    </div>
+                    <div class="work-arrow">
+                    </div>
+                    <div class="single-work-process">
+                        <div class="work-icon-box">
+                            <span><img src="images/sanitization.html"></span>
+                        </div>
+                        <h4 class="caption">Sanitization of tools &amp; area</h4>
+                    </div>
+                    <div class="work-arrow">
+                    </div>
+                    <div class="single-work-process">
+                        <div class="work-icon-box">
+                            <span><img src="images/aarogya.html"></span>
+                        </div>
+                        <h4 class="caption">Arogya Setu to ensure safety</h4>
+                    </div>                                          
+                <div class="row">
+                    <div class="col"></div>
+                </div>
+            </div>
+        </div>
+        </div>
+        </section>
+
+    <!--begin section-grey -->
+    <section class="section-grey" id="service" >
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row">
+
+                <!--begin col-md-12 -->
+                <div class="col-md-12 text-center margin-bottom-10">
+
+                    <h2 class="section-title ss">What We Do</h2>
+
+                  <p class="section-subtitle">As a leading RO service provider in India, we offer RO service, repair, and maintenance needs all over the country. Get no-time doorstep service with expert service staff.</p>
+                    
+                </div>
+                <!--end col-md-12 -->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+        <!--begin services-wrapper -->
+        <div class="services-wrapper">
+
+            <!--begin container -->
+            <div class="container">
+
+                <!--begin row -->
+                <div class="row">
+
+                    <!--begin col-md-4 -->
+                    <div class="col-md-4">
+
+                        <div class="main-services">
+
+                            
+                            <img src="images/ro-service.html" 
+                            alt="ac installation in india">
+
+                            <h4>RO REPAIR / SERVICE</h4>
+
+                            <p>Get your RO water purifier serviced at your home with best-in-class service engineers. Choose RO Care India for affordable pricing, same-day service, and the best quality after-service warranty all over the country. Contact our customer care to book a wide range of RO services as per your location. Enjoy the best quality water with RO Care India's range of services that enhances its ability to maximize the cleaning capacity..</p>
+                            
+                        </div>
+
+                    </div>
+                    <!--end col-md-4 -->
+
+                    <!--begin col-md-4 -->
+                    <div class="col-md-4">
+
+                        <div class="main-services red">
+
+                            <img src="images/ro-in.jpg" 
+                            alt="ac maintenance in india">
+
+                            <h4>RO INSTALLATIONS  </h4>
+
+                            <p>Connect us to get same-day RO installation with the best water purifier installer near your home. Install your RO system with the experienced installer from RO Care India and avoid premature replacements. We only offer India's best RO installation services by trained professionals and secured post-installation warranty. Along with high-end manufacturing products, we also offer the low turnaround time for all models of RO installation.</p>
+                            
+                        </div>
+
+                    </div>
+                    <!--end col-md-4 -->
+
+                    <!--begin col-md-4 -->
+                    <div class="col-md-4">
+
+                        <div class="main-services green">
+
+                            <img src="images/ro-amc.html" 
+                            alt="ac repair in india">
+
+                            <h4>RO AMC </h4>
+
+                            <p>Regular RO service becomes expensive without an AMC plan. Buy one of our best-selling RO AMC plan to keep regular RO service low and extend its efficiency. So, if you are eyeing a new RO AMC plan, try RO Care India and get an AMC plan in easy steps. Get complete peace of mind because of our genuine spares, verified service staff, and constant customer support. Get a tailor-made AMC plan and on-call renewal with us.</p>
+                            
+                        </div>
+
+                    </div>
+                    <!--end col-md-4 -->
+               
+                </div>
+                <!--end row -->
+                
+            </div>
+            <!--end container -->
+
+        </div>
+        <!--end services-wrapper -->
+
+    </section>
+    <!--end section-grey -->
+
+    <!--begin section-white -->
+    <section class="section-white" id="about">
+        
+        <!--begin container-->
+        <div class="container">
+
+            <!--begin row-->
+            <div class="row align-items-center">
+            
+                <!--begin col-md-6-->
+                <div class="col-md-6 wow slideInLeft" data-wow-delay="0.25s" style="visibility: visible; animation-delay: 0.25s; animation-name: slideInLeft;">
+
+                    <div class="margin-right-15">
+
+                        <img src="images/ac-installation2.jpg" class="width-100 image-shadow bottom-margins-images" alt="pic">
+
+                    </div>
+                    
+                </div>
+                <!--end col-sm-6-->
+                
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <h3 class="titless">About Our RO Water Purifier Service Center</h3>
+
+                    <p>Dial our customer care number to book flexible water purifier service, repair, and installation. Get on-call assistance in case of having any doubt about our service and its costs. Know all details about comprehensive RO repair plans, breakdown support, and other details about our service and repairs. One can reach us via call, chat, or email to book a hassle-free doorstep service whenever you're required. Best to dial one of our toll-free numbers to get an assured call back from one of our customer care teams to deal with your diverse RO problems. 
+
+</p>
+                    <a href="https://api.whatsapp.com/send?phone=919268887770&text=i%20am%20interested" class="btn-red small scrool">
+                            <img src="images/whatsappicon.jpg" alt="Whatsapp us on 9268887770">
+
+                            </a>
+
+                </div>
+                <!--end col-md-6-->
+            
+           
+        <!--end container-->
+    
+    </section>
+    <!--end section-white-->
+
+    <!--begin section-grey -->
+    <section class="section-grey">
+        <div class="bg-shape servud"></div>
+        <!--begin container-->
+        <div class="container">
+
+            <!--begin row-->
+            <div class="row align-items-center">
+            
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+                     <h3>Our Core Values</h3>
+
+                    <div class="nav flex-column nav-pills margin-right-25" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+
+                        <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                        
+                            <!--begin features-second -->
+                            <div class="features-second">
+                                
+                                <div class="dropcaps-circle blue">
+                                    <i class="fas fa-certificate"></i>
+                                </div>
+
+                                <h4 class="margin-bottom-5">Quality</h4>
+
+                                <p>We make sure that our clients can get quality service and assistance whenever they call us for doorstep service. What we do, we do well.</p>
+
+                            </div>
+                            <!--end features-second-->
+                        </a>
+
+                        <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                            
+                            <!--begin features-second-->
+                            <div class="features-second">
+
+                                <div class="dropcaps-circle red">
+                                    <i class="far fa-lightbulb"></i>
+                                </div>
+
+                                <h4 class="margin-bottom-5">Efficiency</h4>
+
+                                <p>Commitment to greatness drives us to work efficiently with proactive customer service. We deliver our services in a way that makes us proud.</p>
+
+                            </div>
+                            <!--end features-second-->
+
+                        </a>
+
+                        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+                            
+                            <!--begin features-second-->
+                            <div class="features-second">
+
+                                <div class="dropcaps-circle green">
+                                   <i class="fas fa-users"></i>
+                                </div>
+
+                                <h4 class="margin-bottom-5">Teamwork</h4>
+
+                                <p>We are working with a team that offers passionate service by doing less, better and faster. Growth and learning in our DNA make us stand out.</p>
+
+                            </div>
+                            <!--end features-second-->
+
+                        </a>
+
+                    </div>
+
+                </div>
+                <!--end col-md-6-->
+                
+                <!--begin col-md-6 -->
+                <div class="col-md-6">
+
+                    <div class="tab-content margin-left-20" id="v-pills-tabContent">
+
+                        <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                            <img src="images/newacinstallation.jpg" class="width-100 image-shadow top-margins-images" alt="pic">
+                        </div>
+
+                       
+
+                    </div>
+
+                </div>
+                <!--end col-md-6 -->
+
+            </div>
+            <!--end row-->
+    
+        </div>
+        <!--end container-->
+    
+    </section>
+    <!--end section-grey-->
+
+    <!--begin section-bg-1 -->
+    <section class="section-bg-1">
+        
+        <div class="section-bg-overlay"></div>
+
+        <!--begin container-->
+        <div class="container">
+
+            <!--begin row-->
+            <div class="row">
+            
+                <!--begin col md 7 -->
+                <div class="col-md-7 mx-auto margin-bottom-20 text-center">
+
+                    <h2 class="white-text">
+24/7 EMERGENCY SERVICE, CALL US ON <a href="tel:9311587730">9311587730</a>
+
+
+                    </h2>
+                    
+
+                </div>
+                <!--end col md 7-->
+            
+            </div>
+            <!--end row-->
+    
+            <!--begin row-->
+            </div>
+            <!--end row-->
+    
+        </div>
+        <!--end container-->
+    
+    </section>
+    <!--end section-bg-1 -->
+
+<section id="dynamic_centent">
+  <div class="container">
+    <div class="row">
+      <div class="content_here">
+        <h2>Why Did All RO Users Want To Opt For AMC?</h2>
+        <p>Water purifier AMC can help to keep your RO system in the best shape and extends its longevity along with stopping premature breakdowns. That's why you need to go for a verified RO AMC plan because only trained professionals know all ins and outs of water purifiers. Our AMC professional knows how to disassemble and clean the water purifier and avoid any damages. We never use faulty spares during AMC plans after addressing the actual issue and get the appliance running up in no time.</p>
+        <p>An AMC plan includes a fixed number of preventive management and replaces the consumables when requires. RO water purifier AMC is a year-long agreement designed by RO Care India to complete regular maintenance and repair of your water purifiers.</p>
+        <h2>Why Did All RO Users consider RO AMC worth buying?</h2>
+       <ul>
+        <li>&nbsp; Quality and priority service at your convenience after every three months</li>
+        <li>&nbsp; Maximize the life of the overall water purifier along with its consumables</li>
+        <li>&nbsp; Get additional discounts on repair and other purchases</li>
+        <li>&nbsp; Ensure proper conditioning of consumables ensure running under AMC</li>
+        <li>&nbsp; Prevent the risk of costly breakdowns with on-time service at your doorstep</li>
+        <li>&nbsp; Increase efficiency and reduces utility bills</li>
+        <li>&nbsp; We offer all models of water purifier AMC all over the country</li>
+        </ul>
+
+  <p>RO AMC may look expensive, but it never allows your RO to go out of order. Get 2-4 times scheduled maintenance and additional visits in case of urgent needs. We offer the lowest cost RO AMC plans that deal with all ups and downs regarding your RO system. Apart from offering best-in-class AMC plans, we also help to choose the suitable RO AMC plan.</p>
+
+        <h2>The Additional Paybacks Of Choosing RO AMC Plans</h2>
+        <ol>
+        <li>Hassle-free doorstep service in case of water purifier breakdowns</li>
+        <li>Without scheduling any service, get on-time service without any reminder</li>
+        <li>We offer all RO brands and models AMC with best-trained staffs</li>
+        <li>Get all RO spares to tune up covered under a single AMC plan</li>
+        <li>Get unlimited service and cleaning of your RO spares</li>
+        <li>Our AMC guarantees free access to pure water and minimizes breakdowns</li>
+        <li>Keeps your water purifier as good as a new water purifier</li>
+        </ol>
+        
+<p>Our AMC plan takes care of the periodic service and cleaning needs and minimizes the chances of a water purifier breaking down. It also comprised all costs associated to any repair by our trained RO technician.</p>
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+    <!--begin testimonials section -->
+    <section class="section-grey" id="testimonials">
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row align-items-center">
+
+                <!--begin col-md-5 -->
+                <div class="col-md-5 col-sm-12">
+
+                    <h2>Read What Our Customers Say</h2>
+
+                    <p>About Our RO Repairs & Services. 
+                        <br>98% of our customers satisfied with our service</p>
+                    
+                        <!--begin row-->
+                        <div class="row">
+                        
+                            <!--begin col-md-4-->
+                            <div class="col-md-4 col-sm-6">
+
+                                <!--begin testim-platform-->
+                                <div class="testim-platform first">
+
+                                    <p>Google</p>
+
+                                    <div class="testim-rating">
+                                        <i class="fa fa-star" aria-hidden="true"></i>
+                                        <i class="fa fa-star" aria-hidden="true"></i>
+                                        <i class="fa fa-star" aria-hidden="true"></i>
+                                        <i class="fa fa-star" aria-hidden="true"></i>
+                                        <i class="fas fa-star-half-alt" aria-hidden="true"></i>
+                                    </div>
+
+                                </div>
+                                <!--end testim-platform-->
+                                
+                            </div>
+                            <!--end col-sm-4-->
+                            
+                           
+                            
+                        </div>
+                        <!--end row-->
+                        
+                </div>
+                <!--end col-md-5 -->
+
+                <!--begin col-md-1 -->
+                <div class="col-md-1"></div>
+                <!--end col-md-1 -->
+
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <!--begin accordion -->
+                    <div class="accordion" id="accordionFAQ">
+
+                        <!--begin card -->
+                        <div class="card">
+                            
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                               They came for service and deep cleaned our water purifier. Very reasonable pricing and the team was well.
+                                </div>
+                            </div>
+
+                            <div class="card-header" id="headingOne">
+                                <h5 class="mb-0">
+                                <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                               
+                                  <p class="testim-name">Monu Kumar</p>
+                                </button>
+                                </h5>
+                            </div>
+
+                        </div>
+                        <!--end card -->
+
+                        <!--begin card -->
+                        <div class="card">
+
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                Great service, reliable, timely, friendly, and they clean up after themselves – how the rest of the RO Service industry.
+                                </div>
+                            </div>
+
+                            <div class="card-header" id="headingTwo">
+                                <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                 
+                                  <p class="testim-name">Raman Arora</span></p>
+                                </button>
+                                </h5>
+                            </div>
+
+                        </div>
+                        <!--end card -->
+
+                        <!--begin card -->
+                        <div class="card">
+
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                Great RO service, showed up on time, were very clean and even took the time to explain to me how.
+                                </div>
+                            </div>
+
+                            <div class="card-header" id="headingThree">
+                                <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                
+                                  <p class="testim-name">Mohammed khan</span></p>
+                                </button>
+                                </h5>
+                            </div>
+
+                        </div>
+                        <!--end card -->
+
+                    </div>
+                    <!--end accordion -->
+
+                </div>
+                <!--end col-md-6-->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+    </section>
+    <!--end testimonials section -->
+
+    <!--begin section-white -->
+   <!--end section-white -->
+<section id="inter-linking">
+           <div class="bg-shape servud"></div>
+    <div class="container">
+        <div class="row">
+           
+                      <div class="enquriy-form bottom-form">
+    <div class="registration dss">
+          <h2 class="sbm">SUBMIT A CALL BACK REQUEST</h2>
+           <div class="l-form">
+         <form action="https://www.waterpurifierservicecenter.in/popup/get_popup_data_rocare.php" method="post" class="form" name="myForm1" onsubmit="return validate1();" >
+             
+             <input type="hidden" class="form-control" name="hiddn_field" value="https://www.mannubhai.com/ro-service-ads/">
+             <input type="hidden" name="go_back" value="https://www.mannubhai.com/ro-service-ads/">
+            <div class="row">
+           
+            <div class="form_div">
+                <input type="text" name="name" class="form_input" placeholder=" ">
+                <label for="" class="form_label">Full Name <span>*</span></label>
+            </div>
+       
+        
+            <div class="form_div">
+                <input type="text" name="mobile" class="form_input" placeholder=" ">
+                <label for="" class="form_label">Moile Number <span>*</span></label>
+            </div>
+      
+           
+            <div class="form_div">
+                <input type="email" name="email" class="form_input" placeholder=" ">
+                <label for="" class="form_label">Email <span>*</span></label>
+            
+             </div>
+                
+            <div class="form_div textarea-here">
+                <textarea type="text" name="message" class="form_input" placeholder=" "></textarea>
+                <label for="" class="form_label">Full Address</label>
+            </div>
+          
+                        
+            <div class="form-submit bottom-button">
+              <input type="submit" name="submit" value="Submit">
+            </div>
+        </div>
+        </form>
+        
+    </div>
+        </div>
+  </div>
+        </div>
+    </div>
+</section>
+
+  </div>
+
+    <!--begin footer -->
+  
+<div class="footer">
+            
+        <!--begin container -->
+        <div class="container">
+        
+            <!--begin row -->
+            <div class="row">
+            
+                <!--begin col-md-5 -->
+                <div class="col-md-5">
+                   
+                    <p>© 2021 <span class="template-name">RO CUSTOMER CARE </span></p>
+                    
+                </div>
+                <!--end col-md-5 -->
+                
+                <!--begin col-md-2 -->
+                <div class="col-md-2"></div>
+                <!--end col-md-2 -->
+                
+                <!--begin col-md-5 -->
+                <div class="col-md-5">
+                                         
+                    <!--begin footer_social -->
+                    <ul class="footer_social">
+
+                        <li>Support:</li>
+
+                        <li><a href="tel:9311587730"><i class="fa fa-phone"></i>+91-9311587730</a></li>
+
+                        
+                    </ul>
+                    <!--end footer_social -->
+                    
+                </div>
+                <!--end col-md-5 -->
+                
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+               
+    </div>
+    <!--end footer -->
+    <a href="tel:9311587730 " class="float" target="_blank">
+        <i class="fa fa-phone my-float"></i>
+        </a>
+        <div class="icon-bar-1">
+<!-- <a href="tel:9355024710 " class="google"><i class="fa fa-phone"></i></a> -->
+  <a href="https://wa.link/o823am" target="-blank" class="twitter"><i class="fa fa-whatsapp"></i></a> 
+</div>
+<!-- Load JS here for greater good =============================-->
+<script src="js/jquery-3.3.1.min.html"></script>
+<script src="js/bootstrap.min.html"></script>
+<script src="js/jquery.scrollTo-min.html"></script>
+<script src="js/jquery.magnific-popup.min.html"></script>
+<script src="js/jquery.nav.html"></script>
+<script src="js/wow.html"></script>
+<script src="js/plugins.html"></script>
+</body>
+</html>

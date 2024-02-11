@@ -1,0 +1,62 @@
+.shadow {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
+.card-img {
+    width: 100%;
+    height: 100%;
+}
+
+.desc {
+    border-right: 2px solid black;
+}
+
+.bg-light {
+    background: #f1f1f1;
+}
+
+.border-style {
+    border-radius: 20px;
+
+}
+
+.border-style2 {
+    border-radius: 20px;
+}
+
+.two-sec .col-lg-10 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.ft-8 {
+    font-size: 8px;
+}
+
+tr {
+    cursor: pointer;
+}
+
+@media (min-width:990px) {
+    /* .entry {
+        margin-left: auto;
+    } */
+
+    .mr {
+        margin-right: 15px;
+    }
+
+    table {
+        margin-left: 200px;
+        width: 100%;
+    }
+
+    .one {
+        z-index: 999;
+    }
+
+}

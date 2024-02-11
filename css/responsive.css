@@ -1,0 +1,33 @@
+@media only screen and (max-width: 1024px)  {	
+
+.container2{ width: 95%; padding: 15px 0px; }
+.container2 h2{ font-size: 18px; }
+.category_list{ margin: 0px; }
+.category_list_left{ width: 100%; margin: 0px 0px 15px; }
+.about_container{ width: 95%; padding: 15px 0px; }
+.about_left{ width: 100%; float: none; }
+.about_right{ width: 100%; float: none; }
+.contact_container{ width: 95%; padding: 15px 0px; }
+.contact_left{ width: 100%; float: none; }
+.contact_right{ width: 100%; float: none; }
+.login_container{ width: 95%; padding: 20px 0px; }
+.footer_container{ width: 95%; padding: 10px 0px; }
+.footer_container p,.footer_container p a{ font-size: 13px; }
+.modal-content{ width: 95%; }
+
+.area_box_left{ width: 100%; margin: 0px; padding: 0px; }
+.area_box_right{ width: 100%; }
+.thum_left{ width: 100%; margin: 0px 0px 15px; }
+.thum_right{ width: 100%; }
+
+.thumb_btn{ margin:0px; position: relative; float: left; }
+
+.area_full_left{ width: 100%; margin: 0px 0px 20px; }
+.area_full_right{ width: 100%; }
+
+.spa_box_left{ width: 100%; float: none; }
+.spa_box_right{ width: 100%; float: none; }
+
+.registration.dss{ width: 100% !important; }
+
+}
